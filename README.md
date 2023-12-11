@@ -17,3 +17,7 @@ Direct copy-paste from https://raw.githubusercontent.com/ikatyang/emoji-cheat-sh
 | [top](#symbols) | :question: | `:question:` | :grey_question: | `:grey_question:` | [top](#table-of-contents) |
 | [top](#symbols) | :grey_exclamation: | `:grey_exclamation:` | :exclamation: | `:exclamation:` <br /> `:heavy_exclamation_mark:` | [top](#table-of-contents) |
 | [top](#symbols) | :wavy_dash: | `:wavy_dash:` | | | [top](#table-of-contents) |
+
+Copied the line and removed other chars
+
+:exclamation:
