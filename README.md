@@ -3,9 +3,9 @@ Testing various things and stuff
 
 ## Will these ! emojis render in github?
 
- ❗IMAGE MISSING UNEXPECTEDLY❗
+❗IMAGE MISSING UNEXPECTEDLY❗
 
- :exclamation: IMAGE MISSING UNEXPECTEDLY :exclamation:
+:exclamation: IMAGE MISSING UNEXPECTEDLY :exclamation:
 
 #### Punctuation
 
@@ -20,4 +20,4 @@ Direct copy-paste from https://raw.githubusercontent.com/ikatyang/emoji-cheat-sh
 
 Copied the line and removed other chars
 
-:exclamation:
+:exclamation: IMAGE MISSING UNEXPECTEDLY :exclamation:
