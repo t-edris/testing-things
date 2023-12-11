@@ -20,4 +20,8 @@ Direct copy-paste from https://raw.githubusercontent.com/ikatyang/emoji-cheat-sh
 
 Copied the line and removed other chars
 
-:exclamation: IMAGE MISSING UNEXPECTEDLY :exclamation:
+:exclamation:
+
+IMAGE MISSING UNEXPECTEDLY but on different lines
+
+:exclamation:
